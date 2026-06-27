@@ -15,7 +15,7 @@
 ```t
 # Search Helm Repo
 helm search repo mychart3
-Observation: Should display latest version of mychart3 from stacksimplify helm repo
+Observation: Should display latest version of mychart3 from weizheng78 helm repo
 
 # Search Helm Repo with --versions
 helm search repo mychart3 --versions
